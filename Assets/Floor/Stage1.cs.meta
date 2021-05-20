@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f49c4621363284f43a9a1a8e30bd6f5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SafePrefab: {instanceID: 0}
+  - DangerPrefab: {instanceID: 0}
+  - FinishPrefab: {instanceID: 0}
+  - BallPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
